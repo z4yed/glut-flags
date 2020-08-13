@@ -10,3 +10,6 @@
     //One Executable file will be created, run it.
     
     ./sample2d
+
+N.B : If you run this program in windows, add one extra line in the top.
+        #include<windows.h>
